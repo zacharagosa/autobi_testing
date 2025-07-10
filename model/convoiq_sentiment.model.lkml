@@ -6,6 +6,8 @@ include: "/explore/loyalty_insights.explore.lkml"
 include: "/explore/base_management.explore.lkml"
 include: "/explore/loyalty_churn_insights.explore.lkml"
 include: "/explore/callcenter_metrics.explore.lkml"
+include: "/explore/sentiment_churn.explore.lkml"
+
 
 
 
