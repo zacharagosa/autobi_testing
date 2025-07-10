@@ -1,4 +1,4 @@
-connection: "ea3"
+connection: "looker-private-demo"
 
 
 include: "/explore/sentiment_analysis.explore.lkml"
