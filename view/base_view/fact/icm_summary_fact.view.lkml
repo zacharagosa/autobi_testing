@@ -1,5 +1,5 @@
 view: icm_summary_fact {
-  sql_table_name: `vz-it-np-j1kv-dev-earef-0.convoiq.icm_summary_fact` ;;
+  sql_table_name: `aragosalooker.verizon_autobi..icm_summary_fact` ;;
 
   dimension: abandons_cnt {
     type: number

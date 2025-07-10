@@ -1,5 +1,5 @@
 view: subs_sum_fact {
-  sql_table_name: `vz-it-np-j1kv-dev-earef-0.convoiq.subs_sum_fact` ;;
+  sql_table_name: `aragosalooker.verizon_autobi.subs_sum_fact` ;;
 
   dimension: access_amt {
     label: "The amount of access granted to the subscriber's account."
