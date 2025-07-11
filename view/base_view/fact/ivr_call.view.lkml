@@ -1,5 +1,5 @@
 view: ivr_call {
-  sql_table_name: `aragosalooker.verizon_autobi.convoiq.ivr_call` ;;
+  sql_table_name: `aragosalooker.verizon_autobi..ivr_call_exp` ;;
 
   dimension: ad_cd {
     label: " AD Code"

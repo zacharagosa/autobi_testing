@@ -1,5 +1,5 @@
 view: churn_sum_fact {
-  sql_table_name: `aragosalooker.verizon_autobi.convoiq.churn_sum_fact` ;;
+  sql_table_name: `aragosalooker.verizon_autobi.convoiq.churn_sum_fact_exp` ;;
 
   dimension: acct_num {
     label: "Customer Account Number"

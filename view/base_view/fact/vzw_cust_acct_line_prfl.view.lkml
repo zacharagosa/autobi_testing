@@ -1,5 +1,5 @@
 view: vzw_cust_acct_line_prfl {
-  sql_table_name: `vz-it-np-j1kv-dev-earef-0.convoiq.vzw_cust_acct_line_prfl` ;;
+  sql_table_name: `aragosalooker.verizon_autobi..vzw_cust_acct_line_prfl` ;;
 
   dimension: aal_voice_base_ind {
     type: string

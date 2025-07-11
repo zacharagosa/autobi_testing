@@ -1,5 +1,5 @@
 view: convoiq_loyalty_insights_call_level_table {
-  sql_table_name: `vz-it-np-j1kv-dev-earef-0.convoiq.convoiq_loyalty_insights_call_level_table` ;;
+  sql_table_name: `aragosalooker.verizon_autobi..convoiq_loyalty_insights_call_level_table` ;;
 
   dimension: accepted_ats_combinations {
     type: string

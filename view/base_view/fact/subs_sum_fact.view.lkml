@@ -1,5 +1,5 @@
 view: subs_sum_fact {
-  sql_table_name: `aragosalooker.verizon_autobi.subs_sum_fact` ;;
+  sql_table_name: `aragosalooker.verizon_autobi.subs_sum_fact_exp` ;;
 
   dimension: access_amt {
     label: "The amount of access granted to the subscriber's account."

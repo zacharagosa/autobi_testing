@@ -1,5 +1,5 @@
 view: dla_sum_fact {
-  sql_table_name: `aragosalooker.verizon_autobi..dla_sum_fact` ;;
+  sql_table_name: `aragosalooker.verizon_autobi..dla_sum_fact_exp` ;;
 
   dimension: access_amt {
     label: "Access Amount"

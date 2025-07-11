@@ -1,5 +1,5 @@
 view: sentiment_report_call_level_detail_convo_iq {
-  sql_table_name: `vz-it-np-j1kv-dev-earef-0.convoiq.sentiment_report_call_level_detail_convoIQ` ;;
+  sql_table_name: `aragosalooker.verizon_autobi..sentiment_report_call_level_detail_convoIQ` ;;
 
 
   dimension: acss_callid {
